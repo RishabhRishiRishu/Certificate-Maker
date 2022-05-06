@@ -9,6 +9,4 @@ Once running the exe, it will ask for a folder
 Write the name of the output folder (should not exist before running the software)
 It will create the files in the new folder
 
-First variable will be taken for naming the individual files
-
-I thought this might be helpful, so sharing it with you.
+First variable will be taken for naming the individual files.
